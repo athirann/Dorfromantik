@@ -4,9 +4,8 @@
 
 Se placer dans le fichier build
 
-- Pour compiler : javac -d . -classpath . ../src/fr/iutfbleau/projet/vue/TileView.java 
+- Pour compiler : makerun 
 
-- Pour executer : java -classpath . view.TileView
 
 
 ## API officielle de Java :
